@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumit Bamwakade
-- 👀 I’m interested in Front End-Web Development
-- 🌱 I’m currently learning Javascript and Advanced CSS
-- 💞️ I’m looking to collaborate on Web Peojects
+- 👀 I’m interested in  Android Development and Front End-Web Development.
+- 🌱 I’m currently learning Dart and Flutter Framework.
+- 💞️ I’m looking to collaborate on Flutter Project.
 - 📫 You can reach me at : "sbanwakde4482@gmail.com"
 
 <!---
