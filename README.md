@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumit Banwakade
 - 👀 I’m interested in  Android Development and Front End-Web Development.
-- 🌱 I’m currently learning Dart and Flutter Framework.
-- 💞️ I’m looking to collaborate on Flutter Project.
+- 🌱 I’m currently learning Flutter and Java.
+- 💞️ I’m looking to collaborate on Flutter Project or Web Projects.
 - 📫 You can reach me at : "sbanwakde4482@gmail.com"
 
 <!---
