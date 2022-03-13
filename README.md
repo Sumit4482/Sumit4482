@@ -38,7 +38,7 @@
 
 ## Connect with me!
 
-[<img  width = "75px" alt = "gmail" src = "https://cdn-icons.flaticon.com/png/512/4926/premium/4926637.png?token=exp=1642612635~hmac=0479816a81d494c4ced76774b899e83e" />][gmail] 
+[<img  width = "75px" alt = "gmail" src = "https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />][gmail] 
 [<img width = "65px" alt = "linkedin" src = "https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1642612540~hmac=efaffaa87bc59f0709316cc653ee582c" />][linkedin] 
 [<img width = "65px" alt = "Twitter" src = "https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1642612462~hmac=fcce80564445b200a0ff3950ce83767e" />][Twitter]
 
