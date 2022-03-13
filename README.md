@@ -39,8 +39,8 @@
 ## Connect with me!
 
 [<img  width = "75px" alt = "gmail" src = "https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />][gmail] 
-[<img width = "65px" alt = "linkedin" src = "https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1642612540~hmac=efaffaa87bc59f0709316cc653ee582c" />][linkedin] 
-[<img width = "65px" alt = "Twitter" src = "https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1642612462~hmac=fcce80564445b200a0ff3950ce83767e" />][Twitter]
+[<img width = "65px" alt = "linkedin" src = "https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" />][linkedin] 
+[<img width = "65px" alt = "Twitter" src = "https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" />][Twitter]
 
 
 [gmail]: mailto:sbanwakde4482@gmail.com
