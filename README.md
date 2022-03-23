@@ -5,7 +5,7 @@
 ## About me
 
 - 👨‍🎓 I'm an Open Source Enthusiast and I'm Pursuing Bachelors of Technology in Computer Technology.
-- 🌱 I'm currently learning Flutter and Java.
+- 🌱 I'm currently learning Flutter and Dart.
 - 💻 I'm also working on boosting my Problem Solving Skills.
 - 💞️ I’m looking to collaborate on Flutter Project or Web Projects.
 - 📫 You can reach me at : "sbanwakde4482@gmail.com"
