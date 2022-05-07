@@ -1,50 +1,39 @@
-# Hey, I'm [Sumit!](https://twitter.com/Sumit4482) 👋
+Hi 👋 My name is Sumit Banwakade
+================================
 
-<br/>
+Flutter Developer
+-----------------
 
-## About me
+I have been working with Flutter for more than 6 months.
 
-- 👨‍🎓 I'm an Open Source Enthusiast and I'm Pursuing Bachelors of Technology in Computer Technology.
-- 🌱 I'm currently learning Flutter and Dart.
-- 💻 I'm also working on boosting my Problem Solving Skills.
-- 💞️ I’m looking to collaborate on Flutter Project or Web Projects.
-- 📫 You can reach me at : "sbanwakde4482@gmail.com"
-<br/>
+* 🌍  I'm based in Nagpur.
+* ✉️  You can contact me at [sbanwakde4482@gmail.com](mailto:sbanwakde4482@gmail.com)
+* 🤝  I'm open to collaborating on Flutter and Web Projects.
+* ⚡  Take Coffee as Fuel.
 
-## Languages and Tools:
-<img  align = "left"  width = "45px" src ="https://img.icons8.com/color/48/000000/flutter.png">
-<img  align = "left"  width = "45px" src ="https://img.icons8.com/color/48/000000/dart.png">
-<img  align = "left"  width = "45px" src = "https://user-images.githubusercontent.com/78600829/143561162-6f6d0ba8-dbea-42ce-ad95-45e2058ef7f8.png" />
-<img  align = "left"  width = "45px" src = "https://user-images.githubusercontent.com/78600829/143561344-cccd049b-b021-4660-8ad6-09dda62eac4e.png" />
-<img  align = "left"  width = "45px" src = "https://user-images.githubusercontent.com/78600829/143562515-00f02897-4264-490e-ba04-926c004b3643.png" />
-<img  align = "left"  width = "45px" src = "https://user-images.githubusercontent.com/78600829/143562639-bf8d1b9b-60cc-46ca-8653-35a6faaf3c00.png"/>
-<img  align = "left"  width = "45px" src = "https://user-images.githubusercontent.com/78600829/143561367-b561af03-cbe0-4764-a37e-218f8f0bb26c.png"/>
-<img  align = "left"  width = "45px" src = "https://user-images.githubusercontent.com/78600829/143561392-4835173e-f453-4384-a60e-c2f086720c43.png"/>
-<img  align = "left"  width = "45px" src = "https://user-images.githubusercontent.com/78600829/143561476-7998c717-e6cd-49c9-b431-6b6718726d7f.png"/>
-<img  align = "left"  width = "45px" src ="https://img.icons8.com/color/50/000000/c-programming.png">
-<img  align = "left"  width = "45px" src ="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+### Skills
 
-<br/>
-<br/>
-<br/>
-
-## Stats:
-
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumit4482&theme=radical&show_icons=true)
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit4482&langs_count=8)](https://github.com/Sumit4482/github-readme-stats)
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
-## Connect with me!
+### Socials
 
-[<img  width = "75px" alt = "gmail" src = "https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />][gmail] 
-[<img width = "65px" alt = "linkedin" src = "https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" />][linkedin] 
-[<img width = "65px" alt = "Twitter" src = "https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" />][Twitter]
+<p align="left"> <a href="https://www.github.com/Sumit4482" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sumit-banwakade-6b8302198/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sumit4482" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+### Badges
 
-[gmail]: mailto:sbanwakde4482@gmail.com
-[linkedin]: https://www.linkedin.com/in/sumit-banwakade-6b8302198/
-[Twitter]: https://twitter.com/Sumit4482
+<b>My GitHub Stats</b>
 
-![](https://komarev.com/ghpvc/?username=Sumit4482&color=green)
+<a href="http://www.github.com/Sumit4482"><img src="https://github-readme-stats.vercel.app/api?username=Sumit4482&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Sumit4482's GitHub stats" /></a>
+
+<a href="http://www.github.com/Sumit4482"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit4482&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
