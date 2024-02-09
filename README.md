@@ -8,7 +8,7 @@ I have been working with Flutter for more than 6 months.
 
 * 🌍  I'm based in Nagpur.
 * ✉️  You can contact me at [sbanwakde4482@gmail.com](mailto:sbanwakde4482@gmail.com)
-* 🤝  I'm open to collaborating on Flutter Projects.
+* 🤝  I'm open to collaborating on Flutter & Web Projects.
 * ⚡  Take Coffee as Fuel.
 
 ### Skills
