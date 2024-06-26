@@ -1,14 +1,14 @@
 Hi 👋 My name is Sumit Banwakade
 ================================
 
-Flutter Developer
+Mobile App Developer
 -----------------
 
-I have been working with Flutter for more than 6 months.
+I have been working with Flutter for more than 6 months and currently learning Swift.
 
 * 🌍  I'm based in Nagpur.
 * ✉️  You can contact me at [sbanwakde4482@gmail.com](mailto:sbanwakde4482@gmail.com)
-* 🤝  I'm open to collaborating on Flutter & Web Projects.
+* 🤝  I'm open to collaborating on Flutter, Web and Swift Projects.
 * ⚡  Take Coffee as Fuel.
 
 ### Skills
