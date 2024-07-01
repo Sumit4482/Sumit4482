@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/incompletedsa" target="blank"><img src="https://img.shields.io/twitter/follow/incompletedsa?logo=twitter&style=for-the-badge" alt="incompletedsa" /></a> </p>
 
-- 🌱 I’m currently learning **Swift, SwiftUI**
+- 🌱 I’m currently learning **Swift, SwiftUI, Go**
 
 - 💬 Ask me about **Flutter, Angular, Swift**
 
