@@ -1,7 +1,7 @@
 Hi 👋 My name is Sumit Banwakade
 ================================
 
-Mobile App Developer
+Developer
 -----------------
 
 I have been working with Flutter for more than 6 months and currently learning Swift.
